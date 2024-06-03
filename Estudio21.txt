@@ -1,0 +1,25 @@
+1. Lenguajes de Programación:
+
+- Java:
+
+- Fundamentos de Java (sintaxis, variables, operadores, estructuras de control)**: Java
+
+es un lenguaje de programación de alto nivel orientado a objetos, originalmente
+desarrollado por Sun Microsystems en 1995 y actualmente propiedad de Oracle. Es
+utilizado para desarrollar una amplia gama de aplicaciones de software, desde
+aplicaciones móviles hasta aplicaciones de escritorio, web y juego. La sintaxis de Java es
+similar a la de C, lo que significa que si uno aprende la sintaxis de la programación en
+Java, automáticamente sería capaz de leer y escribir programas en lenguajes similares
+como C, C++ y C#Entre los fundamentos de Java se incluyen las variables, que
+almacenan datos para su procesamiento; los operadores, que realizan diferentes tipos de
+operaciones matemáticas y lógicas; y las estructuras de control, que guían el flujo de
+ejecución de un programa[[1]
+
+- Programación orientada a objetos:
+Java es un lenguaje de programación orientado a objetos (OOP). Incorpora casi todas las
+características de OOP. La creación de objetos a través de plantillas de objetos, es decir,
+clases, la abstracción y encapsulación de datos, la compartición de datos y código a
+través de la herencia, el concepto de sobrecarga a través del polimorfismo, y la ocultación
+de datos/procesos, etc., son algunas de las características básicas de OOP en Java[[2]
+
+
